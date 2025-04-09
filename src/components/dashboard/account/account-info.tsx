@@ -10,7 +10,7 @@ import Typography from '@mui/material/Typography';
 
 const user = {
   name: 'Salman Sajid',
-  avatar: '/assets/avatar-1.png',
+  avatar: '/react-dashboard/assets/avatar-1.png',
   jobTitle: 'Senior Developer',
   country: 'Pakistan',
   city: 'Lahore',
