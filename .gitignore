@@ -12,6 +12,8 @@
 /build
 out
 .next
+/out/
+/dist/
 
 # misc
 .DS_Store
